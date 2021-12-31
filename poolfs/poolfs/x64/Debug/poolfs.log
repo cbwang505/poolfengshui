@@ -1,0 +1,430 @@
+﻿  config.cpp
+E:\git\GreenTown\poolfs\poolfs\includes\pipe_utils.h(45,8): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\includes\pipe_utils.h(45,8): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\includes\pipe_utils.h(56,8): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\includes\pipe_utils.h(56,8): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_utils.h(46,1): warning C4005: “TRUE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(75): message : 参见“TRUE”的前一个定义
+E:\git\GreenTown\poolfs\poolfs\src\pdb_utils.h(47,1): warning C4005: “FALSE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(71): message : 参见“FALSE”的前一个定义
+E:\git\GreenTown\poolfs\poolfs\src\pdb_utils.h(132,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_utils.h(132,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_utils.h(140,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_utils.h(140,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1156,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1156,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1173,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1173,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1213,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1213,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1237,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1237,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1258,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1258,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1321,16): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1321,16): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1385,13): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1385,13): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1400,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1400,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1415,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1415,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1431,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1431,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1447,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1447,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1478,13): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1478,13): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1495,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1495,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1511,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1511,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1766,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(1766,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(2359,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(2359,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(2424,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(2424,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(2442,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(2442,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(2781,13): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(2781,13): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(3245,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(3245,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(3313,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(3313,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(3343,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(3343,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(3797,18): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_info.h(3797,18): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_file.h(74,12): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_file.h(74,12): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_file.h(83,18): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_file.h(83,18): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\pdb_file.h(106,13): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\git\GreenTown\poolfs\poolfs\src\pdb_file.h(106,13): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(163,11): warning C4101: “status”: 未引用的局部变量
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(164,9): warning C4101: “processTokenHandle”: 未引用的局部变量
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(331,37): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(338,11): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(338,11): message : 请考虑在格式字符串中使用“%llx”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(338,11): message : 请考虑在格式字符串中使用“%Ix”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(338,11): message : 请考虑在格式字符串中使用“%I64x”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(346,34): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(353,11): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(353,11): message : 请考虑在格式字符串中使用“%llx”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(353,11): message : 请考虑在格式字符串中使用“%Ix”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(353,11): message : 请考虑在格式字符串中使用“%I64x”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(358,38): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(365,11): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(365,11): message : 请考虑在格式字符串中使用“%llx”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(365,11): message : 请考虑在格式字符串中使用“%Ix”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(365,11): message : 请考虑在格式字符串中使用“%I64x”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(369,33): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(376,11): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(376,11): message : 请考虑在格式字符串中使用“%llx”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(376,11): message : 请考虑在格式字符串中使用“%Ix”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(376,11): message : 请考虑在格式字符串中使用“%I64x”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(402,11): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(402,11): message : 请考虑在格式字符串中使用“%llx”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(402,11): message : 请考虑在格式字符串中使用“%Ix”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(402,11): message : 请考虑在格式字符串中使用“%I64x”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(414,11): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(414,11): message : 请考虑在格式字符串中使用“%llx”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(414,11): message : 请考虑在格式字符串中使用“%Ix”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(414,11): message : 请考虑在格式字符串中使用“%I64x”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(424,11): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(424,11): message : 请考虑在格式字符串中使用“%llx”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(424,11): message : 请考虑在格式字符串中使用“%Ix”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(424,11): message : 请考虑在格式字符串中使用“%I64x”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(434,11): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(434,11): message : 请考虑在格式字符串中使用“%llx”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(434,11): message : 请考虑在格式字符串中使用“%Ix”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(434,11): message : 请考虑在格式字符串中使用“%I64x”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(444,11): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(444,11): message : 请考虑在格式字符串中使用“%llx”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(444,11): message : 请考虑在格式字符串中使用“%Ix”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(444,11): message : 请考虑在格式字符串中使用“%I64x”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(479,27): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(486,11): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(486,11): message : 请考虑在格式字符串中使用“%llx”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(486,11): message : 请考虑在格式字符串中使用“%Ix”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(486,11): message : 请考虑在格式字符串中使用“%I64x”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(492,11): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“DWORD64”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(492,11): message : 请考虑在格式字符串中使用“%llx”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(492,11): message : 请考虑在格式字符串中使用“%Ix”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(492,11): message : 请考虑在格式字符串中使用“%I64x”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(498,11): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(498,11): message : 请考虑在格式字符串中使用“%llx”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(498,11): message : 请考虑在格式字符串中使用“%Ix”
+E:\git\GreenTown\poolfs\poolfs\src\config.cpp(498,11): message : 请考虑在格式字符串中使用“%I64x”
+  nonpagedpool_utils.c
+E:\git\GreenTown\poolfs\poolfs\src\nonpagedpool_utils.c(102,12): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\git\GreenTown\poolfs\poolfs\src\nonpagedpool_utils.c(102,12): message : 请考虑在格式字符串中使用“%zX”
+E:\git\GreenTown\poolfs\poolfs\src\nonpagedpool_utils.c(115,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\git\GreenTown\poolfs\poolfs\src\nonpagedpool_utils.c(115,12): message : 请考虑在格式字符串中使用“%zd”
+  pagedpool_utils.c
+E:\git\GreenTown\poolfs\poolfs\src\pagedpool_utils.c(129,5): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\git\GreenTown\poolfs\poolfs\src\pagedpool_utils.c(129,5): message : 请考虑在格式字符串中使用“%zX”
+E:\git\GreenTown\poolfs\poolfs\src\pagedpool_utils.c(142,5): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\git\GreenTown\poolfs\poolfs\src\pagedpool_utils.c(142,5): message : 请考虑在格式字符串中使用“%zd”
+  pipe_utils.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(66,1): warning C4005: “STATUS_WAIT_0”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2549): message : 参见“STATUS_WAIT_0”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(223,1): warning C4005: “STATUS_ABANDONED_WAIT_0”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2550): message : 参见“STATUS_ABANDONED_WAIT_0”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(246,1): warning C4005: “STATUS_USER_APC”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2551): message : 参见“STATUS_USER_APC”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(282,1): warning C4005: “STATUS_TIMEOUT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2552): message : 参见“STATUS_TIMEOUT”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(291,1): warning C4005: “STATUS_PENDING”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2553): message : 参见“STATUS_PENDING”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(738,1): warning C4005: “DBG_EXCEPTION_HANDLED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2554): message : 参见“DBG_EXCEPTION_HANDLED”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(747,1): warning C4005: “DBG_CONTINUE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2555): message : 参见“DBG_CONTINUE”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(822,1): warning C4005: “STATUS_SEGMENT_NOTIFICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2556): message : 参见“STATUS_SEGMENT_NOTIFICATION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(985,1): warning C4005: “STATUS_FATAL_APP_EXIT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2557): message : 参见“STATUS_FATAL_APP_EXIT”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1323,1): warning C4005: “DBG_REPLY_LATER”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2558): message : 参见“DBG_REPLY_LATER”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1341,1): warning C4005: “DBG_TERMINATE_THREAD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2559): message : 参见“DBG_TERMINATE_THREAD”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1350,1): warning C4005: “DBG_TERMINATE_PROCESS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2560): message : 参见“DBG_TERMINATE_PROCESS”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1359,1): warning C4005: “DBG_CONTROL_C”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2561): message : 参见“DBG_CONTROL_C”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1368,1): warning C4005: “DBG_PRINTEXCEPTION_C”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2562): message : 参见“DBG_PRINTEXCEPTION_C”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1377,1): warning C4005: “DBG_RIPEXCEPTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2563): message : 参见“DBG_RIPEXCEPTION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1386,1): warning C4005: “DBG_CONTROL_BREAK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2564): message : 参见“DBG_CONTROL_BREAK”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1395,1): warning C4005: “DBG_COMMAND_EXCEPTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2565): message : 参见“DBG_COMMAND_EXCEPTION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1404,1): warning C4005: “DBG_PRINTEXCEPTION_WIDE_C”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2566): message : 参见“DBG_PRINTEXCEPTION_WIDE_C”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1436,1): warning C4005: “STATUS_GUARD_PAGE_VIOLATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2567): message : 参见“STATUS_GUARD_PAGE_VIOLATION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1447,1): warning C4005: “STATUS_DATATYPE_MISALIGNMENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2568): message : 参见“STATUS_DATATYPE_MISALIGNMENT”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1458,1): warning C4005: “STATUS_BREAKPOINT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2569): message : 参见“STATUS_BREAKPOINT”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1469,1): warning C4005: “STATUS_SINGLE_STEP”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2570): message : 参见“STATUS_SINGLE_STEP”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1772,1): warning C4005: “STATUS_LONGJUMP”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2571): message : 参见“STATUS_LONGJUMP”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1799,1): warning C4005: “STATUS_UNWIND_CONSOLIDATE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2572): message : 参见“STATUS_UNWIND_CONSOLIDATE”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1914,1): warning C4005: “DBG_EXCEPTION_NOT_HANDLED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2573): message : 参见“DBG_EXCEPTION_NOT_HANDLED”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2060,1): warning C4005: “STATUS_ACCESS_VIOLATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2574): message : 参见“STATUS_ACCESS_VIOLATION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2069,1): warning C4005: “STATUS_IN_PAGE_ERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2575): message : 参见“STATUS_IN_PAGE_ERROR”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2087,1): warning C4005: “STATUS_INVALID_HANDLE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2576): message : 参见“STATUS_INVALID_HANDLE”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2132,1): warning C4005: “STATUS_INVALID_PARAMETER”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2577): message : 参见“STATUS_INVALID_PARAMETER”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2232,1): warning C4005: “STATUS_NO_MEMORY”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2578): message : 参见“STATUS_NO_MEMORY”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2289,1): warning C4005: “STATUS_ILLEGAL_INSTRUCTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2579): message : 参见“STATUS_ILLEGAL_INSTRUCTION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2370,1): warning C4005: “STATUS_NONCONTINUABLE_EXCEPTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2580): message : 参见“STATUS_NONCONTINUABLE_EXCEPTION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2379,1): warning C4005: “STATUS_INVALID_DISPOSITION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2581): message : 参见“STATUS_INVALID_DISPOSITION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3312,1): warning C4005: “STATUS_ARRAY_BOUNDS_EXCEEDED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2582): message : 参见“STATUS_ARRAY_BOUNDS_EXCEEDED”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3322,1): warning C4005: “STATUS_FLOAT_DENORMAL_OPERAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2583): message : 参见“STATUS_FLOAT_DENORMAL_OPERAND”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3332,1): warning C4005: “STATUS_FLOAT_DIVIDE_BY_ZERO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2584): message : 参见“STATUS_FLOAT_DIVIDE_BY_ZERO”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3342,1): warning C4005: “STATUS_FLOAT_INEXACT_RESULT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2585): message : 参见“STATUS_FLOAT_INEXACT_RESULT”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3352,1): warning C4005: “STATUS_FLOAT_INVALID_OPERATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2586): message : 参见“STATUS_FLOAT_INVALID_OPERATION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3362,1): warning C4005: “STATUS_FLOAT_OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2587): message : 参见“STATUS_FLOAT_OVERFLOW”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3372,1): warning C4005: “STATUS_FLOAT_STACK_CHECK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2588): message : 参见“STATUS_FLOAT_STACK_CHECK”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3382,1): warning C4005: “STATUS_FLOAT_UNDERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2589): message : 参见“STATUS_FLOAT_UNDERFLOW”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3392,1): warning C4005: “STATUS_INTEGER_DIVIDE_BY_ZERO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2590): message : 参见“STATUS_INTEGER_DIVIDE_BY_ZERO”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3402,1): warning C4005: “STATUS_INTEGER_OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2591): message : 参见“STATUS_INTEGER_OVERFLOW”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3412,1): warning C4005: “STATUS_PRIVILEGED_INSTRUCTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2592): message : 参见“STATUS_PRIVILEGED_INSTRUCTION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4358,1): warning C4005: “STATUS_STACK_OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2593): message : 参见“STATUS_STACK_OVERFLOW”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4875,1): warning C4005: “STATUS_DLL_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2594): message : 参见“STATUS_DLL_NOT_FOUND”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4904,1): warning C4005: “STATUS_ORDINAL_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2595): message : 参见“STATUS_ORDINAL_NOT_FOUND”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4914,1): warning C4005: “STATUS_ENTRYPOINT_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2596): message : 参见“STATUS_ENTRYPOINT_NOT_FOUND”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4924,1): warning C4005: “STATUS_CONTROL_C_EXIT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2597): message : 参见“STATUS_CONTROL_C_EXIT”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(5002,1): warning C4005: “STATUS_DLL_INIT_FAILED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2598): message : 参见“STATUS_DLL_INIT_FAILED”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(5999,1): warning C4005: “STATUS_CONTROL_STACK_VIOLATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2599): message : 参见“STATUS_CONTROL_STACK_VIOLATION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7593,1): warning C4005: “STATUS_FLOAT_MULTIPLE_FAULTS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2600): message : 参见“STATUS_FLOAT_MULTIPLE_FAULTS”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7603,1): warning C4005: “STATUS_FLOAT_MULTIPLE_TRAPS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2601): message : 参见“STATUS_FLOAT_MULTIPLE_TRAPS”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7735,1): warning C4005: “STATUS_REG_NAT_CONSUMPTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2602): message : 参见“STATUS_REG_NAT_CONSUMPTION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(8718,1): warning C4005: “STATUS_HEAP_CORRUPTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2603): message : 参见“STATUS_HEAP_CORRUPTION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(8946,1): warning C4005: “STATUS_STACK_BUFFER_OVERRUN”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2604): message : 参见“STATUS_STACK_BUFFER_OVERRUN”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(9073,1): warning C4005: “STATUS_INVALID_CRUNTIME_PARAMETER”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2605): message : 参见“STATUS_INVALID_CRUNTIME_PARAMETER”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(9136,1): warning C4005: “STATUS_ASSERTION_FAILURE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2606): message : 参见“STATUS_ASSERTION_FAILURE”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10045,1): warning C4005: “STATUS_ENCLAVE_VIOLATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2607): message : 参见“STATUS_ENCLAVE_VIOLATION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10688,1): warning C4005: “STATUS_INTERRUPTED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2608): message : 参见“STATUS_INTERRUPTED”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10697,1): warning C4005: “STATUS_THREAD_NOT_RUNNING”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2609): message : 参见“STATUS_THREAD_NOT_RUNNING”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(11000,1): warning C4005: “STATUS_ALREADY_REGISTERED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2610): message : 参见“STATUS_ALREADY_REGISTERED”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(14829,1): warning C4005: “STATUS_SXS_EARLY_DEACTIVATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2612): message : 参见“STATUS_SXS_EARLY_DEACTIVATION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(14838,1): warning C4005: “STATUS_SXS_INVALID_DEACTIVATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2613): message : 参见“STATUS_SXS_INVALID_DEACTIVATION”的前一个定义
+E:\git\GreenTown\poolfs\poolfs\src\pipe_utils.c(39,10): warning C4267: “函数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\git\GreenTown\poolfs\poolfs\src\pipe_utils.c(106,33): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\git\GreenTown\poolfs\poolfs\src\pipe_utils.c(106,33): message : 请考虑在格式字符串中使用“%zd”
+E:\git\GreenTown\poolfs\poolfs\src\pipe_utils.c(114,33): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\git\GreenTown\poolfs\poolfs\src\pipe_utils.c(114,33): message : 请考虑在格式字符串中使用“%zd”
+E:\git\GreenTown\poolfs\poolfs\src\pipe_utils.c(135,16): warning C4267: “函数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\git\GreenTown\poolfs\poolfs\src\pipe_utils.c(155,16): warning C4267: “函数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\git\GreenTown\poolfs\poolfs\src\pipe_utils.c(187,13): warning C4267: “函数”: 从“size_t”转换到“ULONG”，可能丢失数据
+E:\git\GreenTown\poolfs\poolfs\src\pipe_utils.c(215,9): warning C4267: “函数”: 从“size_t”转换到“ULONG”，可能丢失数据
+E:\git\GreenTown\poolfs\poolfs\src\pipe_utils.c(248,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+E:\git\GreenTown\poolfs\poolfs\src\pipe_utils.c(264,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  poc_exploit.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2549,1): warning C4005: “STATUS_WAIT_0”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(66): message : 参见“STATUS_WAIT_0”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2550,1): warning C4005: “STATUS_ABANDONED_WAIT_0”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(223): message : 参见“STATUS_ABANDONED_WAIT_0”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2551,1): warning C4005: “STATUS_USER_APC”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(246): message : 参见“STATUS_USER_APC”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2552,1): warning C4005: “STATUS_TIMEOUT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(282): message : 参见“STATUS_TIMEOUT”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2553,1): warning C4005: “STATUS_PENDING”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(291): message : 参见“STATUS_PENDING”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2554,1): warning C4005: “DBG_EXCEPTION_HANDLED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(738): message : 参见“DBG_EXCEPTION_HANDLED”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2555,1): warning C4005: “DBG_CONTINUE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(747): message : 参见“DBG_CONTINUE”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2556,1): warning C4005: “STATUS_SEGMENT_NOTIFICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(822): message : 参见“STATUS_SEGMENT_NOTIFICATION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2557,1): warning C4005: “STATUS_FATAL_APP_EXIT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(985): message : 参见“STATUS_FATAL_APP_EXIT”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2558,1): warning C4005: “DBG_REPLY_LATER”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1323): message : 参见“DBG_REPLY_LATER”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2559,1): warning C4005: “DBG_TERMINATE_THREAD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1341): message : 参见“DBG_TERMINATE_THREAD”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2560,1): warning C4005: “DBG_TERMINATE_PROCESS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1350): message : 参见“DBG_TERMINATE_PROCESS”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2561,1): warning C4005: “DBG_CONTROL_C”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1359): message : 参见“DBG_CONTROL_C”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2562,1): warning C4005: “DBG_PRINTEXCEPTION_C”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1368): message : 参见“DBG_PRINTEXCEPTION_C”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2563,1): warning C4005: “DBG_RIPEXCEPTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1377): message : 参见“DBG_RIPEXCEPTION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2564,1): warning C4005: “DBG_CONTROL_BREAK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1386): message : 参见“DBG_CONTROL_BREAK”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2565,1): warning C4005: “DBG_COMMAND_EXCEPTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1395): message : 参见“DBG_COMMAND_EXCEPTION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2566,1): warning C4005: “DBG_PRINTEXCEPTION_WIDE_C”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1404): message : 参见“DBG_PRINTEXCEPTION_WIDE_C”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2567,1): warning C4005: “STATUS_GUARD_PAGE_VIOLATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1436): message : 参见“STATUS_GUARD_PAGE_VIOLATION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2568,1): warning C4005: “STATUS_DATATYPE_MISALIGNMENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1447): message : 参见“STATUS_DATATYPE_MISALIGNMENT”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2569,1): warning C4005: “STATUS_BREAKPOINT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1458): message : 参见“STATUS_BREAKPOINT”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2570,1): warning C4005: “STATUS_SINGLE_STEP”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1469): message : 参见“STATUS_SINGLE_STEP”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2571,1): warning C4005: “STATUS_LONGJUMP”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1772): message : 参见“STATUS_LONGJUMP”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2572,1): warning C4005: “STATUS_UNWIND_CONSOLIDATE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1799): message : 参见“STATUS_UNWIND_CONSOLIDATE”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2573,1): warning C4005: “DBG_EXCEPTION_NOT_HANDLED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1914): message : 参见“DBG_EXCEPTION_NOT_HANDLED”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2574,1): warning C4005: “STATUS_ACCESS_VIOLATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2060): message : 参见“STATUS_ACCESS_VIOLATION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2575,1): warning C4005: “STATUS_IN_PAGE_ERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2069): message : 参见“STATUS_IN_PAGE_ERROR”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2576,1): warning C4005: “STATUS_INVALID_HANDLE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2087): message : 参见“STATUS_INVALID_HANDLE”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2577,1): warning C4005: “STATUS_INVALID_PARAMETER”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2132): message : 参见“STATUS_INVALID_PARAMETER”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2578,1): warning C4005: “STATUS_NO_MEMORY”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2232): message : 参见“STATUS_NO_MEMORY”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2579,1): warning C4005: “STATUS_ILLEGAL_INSTRUCTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2289): message : 参见“STATUS_ILLEGAL_INSTRUCTION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2580,1): warning C4005: “STATUS_NONCONTINUABLE_EXCEPTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2370): message : 参见“STATUS_NONCONTINUABLE_EXCEPTION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2581,1): warning C4005: “STATUS_INVALID_DISPOSITION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2379): message : 参见“STATUS_INVALID_DISPOSITION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2582,1): warning C4005: “STATUS_ARRAY_BOUNDS_EXCEEDED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3312): message : 参见“STATUS_ARRAY_BOUNDS_EXCEEDED”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2583,1): warning C4005: “STATUS_FLOAT_DENORMAL_OPERAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3322): message : 参见“STATUS_FLOAT_DENORMAL_OPERAND”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2584,1): warning C4005: “STATUS_FLOAT_DIVIDE_BY_ZERO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3332): message : 参见“STATUS_FLOAT_DIVIDE_BY_ZERO”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2585,1): warning C4005: “STATUS_FLOAT_INEXACT_RESULT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3342): message : 参见“STATUS_FLOAT_INEXACT_RESULT”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2586,1): warning C4005: “STATUS_FLOAT_INVALID_OPERATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3352): message : 参见“STATUS_FLOAT_INVALID_OPERATION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2587,1): warning C4005: “STATUS_FLOAT_OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3362): message : 参见“STATUS_FLOAT_OVERFLOW”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2588,1): warning C4005: “STATUS_FLOAT_STACK_CHECK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3372): message : 参见“STATUS_FLOAT_STACK_CHECK”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2589,1): warning C4005: “STATUS_FLOAT_UNDERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3382): message : 参见“STATUS_FLOAT_UNDERFLOW”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2590,1): warning C4005: “STATUS_INTEGER_DIVIDE_BY_ZERO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3392): message : 参见“STATUS_INTEGER_DIVIDE_BY_ZERO”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2591,1): warning C4005: “STATUS_INTEGER_OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3402): message : 参见“STATUS_INTEGER_OVERFLOW”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2592,1): warning C4005: “STATUS_PRIVILEGED_INSTRUCTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3412): message : 参见“STATUS_PRIVILEGED_INSTRUCTION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2593,1): warning C4005: “STATUS_STACK_OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4358): message : 参见“STATUS_STACK_OVERFLOW”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2594,1): warning C4005: “STATUS_DLL_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4875): message : 参见“STATUS_DLL_NOT_FOUND”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2595,1): warning C4005: “STATUS_ORDINAL_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4904): message : 参见“STATUS_ORDINAL_NOT_FOUND”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2596,1): warning C4005: “STATUS_ENTRYPOINT_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4914): message : 参见“STATUS_ENTRYPOINT_NOT_FOUND”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2597,1): warning C4005: “STATUS_CONTROL_C_EXIT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4924): message : 参见“STATUS_CONTROL_C_EXIT”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2598,1): warning C4005: “STATUS_DLL_INIT_FAILED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(5002): message : 参见“STATUS_DLL_INIT_FAILED”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2599,1): warning C4005: “STATUS_CONTROL_STACK_VIOLATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(5999): message : 参见“STATUS_CONTROL_STACK_VIOLATION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2600,1): warning C4005: “STATUS_FLOAT_MULTIPLE_FAULTS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7593): message : 参见“STATUS_FLOAT_MULTIPLE_FAULTS”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2601,1): warning C4005: “STATUS_FLOAT_MULTIPLE_TRAPS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7603): message : 参见“STATUS_FLOAT_MULTIPLE_TRAPS”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2602,1): warning C4005: “STATUS_REG_NAT_CONSUMPTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7735): message : 参见“STATUS_REG_NAT_CONSUMPTION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2603,1): warning C4005: “STATUS_HEAP_CORRUPTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(8718): message : 参见“STATUS_HEAP_CORRUPTION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2604,1): warning C4005: “STATUS_STACK_BUFFER_OVERRUN”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(8946): message : 参见“STATUS_STACK_BUFFER_OVERRUN”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2605,1): warning C4005: “STATUS_INVALID_CRUNTIME_PARAMETER”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(9073): message : 参见“STATUS_INVALID_CRUNTIME_PARAMETER”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2606,1): warning C4005: “STATUS_ASSERTION_FAILURE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(9136): message : 参见“STATUS_ASSERTION_FAILURE”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2607,1): warning C4005: “STATUS_ENCLAVE_VIOLATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10045): message : 参见“STATUS_ENCLAVE_VIOLATION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2608,1): warning C4005: “STATUS_INTERRUPTED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10688): message : 参见“STATUS_INTERRUPTED”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2609,1): warning C4005: “STATUS_THREAD_NOT_RUNNING”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10697): message : 参见“STATUS_THREAD_NOT_RUNNING”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2610,1): warning C4005: “STATUS_ALREADY_REGISTERED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(11000): message : 参见“STATUS_ALREADY_REGISTERED”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2612,1): warning C4005: “STATUS_SXS_EARLY_DEACTIVATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(14829): message : 参见“STATUS_SXS_EARLY_DEACTIVATION”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2613,1): warning C4005: “STATUS_SXS_INVALID_DEACTIVATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(14838): message : 参见“STATUS_SXS_INVALID_DEACTIVATION”的前一个定义
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(73,23): warning C4013: “EnumDeviceDrivers”未定义；假设外部返回 int
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(77,29): warning C4047: “=”:“uintptr_t”与“LPVOID”的间接级别不同
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(78,11): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“uintptr_t”
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(83,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(83,10): message : 请考虑在格式字符串中使用“%zd”
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(71,1): warning C4047: “初始化”:“DWORD”与“void *”的间接级别不同
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(111,10): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(111,10): message : 请考虑在格式字符串中使用“%zx”
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(239,24): warning C4244: “=”: 从“DWORD”转换到“USHORT”，可能丢失数据
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(264,13): warning C4047: “return”:“DWORD64”与“void *”的间接级别不同
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(444,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(444,11): message : 请考虑在格式字符串中使用“%zd”
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(550,2): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(550,2): message : 请考虑在格式字符串中使用“%zX”
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(554,120): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(583,92): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(697,2): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(697,2): message : 请考虑在格式字符串中使用“%zX”
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(701,120): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(728,92): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(771,3): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(771,3): message : 请考虑在格式字符串中使用“%zd”
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(986,124): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(1148,35): warning C4133: “函数”: 从“char *”到“const wchar_t *”的类型不兼容
+E:\git\GreenTown\poolfs\poolfs\src\poc_exploit.c(1180,49): warning C4244: “=”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  vuln.c
+  正在生成代码...
+E:\git\GreenTown\poolfs\poolfs\src\vuln.c(28): warning C4716: “trigger_vuln”: 必须返回一个值
+E:\git\GreenTown\poolfs\poolfs\src\vuln.c(33): warning C4716: “free_vuln”: 必须返回一个值
+E:\git\GreenTown\poolfs\poolfs\src\vuln.c(10): warning C4716: “init_vuln”: 必须返回一个值
+  poolfs.vcxproj -> E:\git\GreenTown\poolfs\x64\Debug\poolfs.exe
